@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+This Repository contains all you will need to setup the front end for the back end you are tasked with creating. Find the instructions to the test here https://docs.google.com/document/d/1ixSNhD8WVWvQ_1xXriLn6gWTrFvoR5534PcbB4EJpH0/edit?usp=sharing
+
 First, install the dependencies:
 ```bash
 npm install
